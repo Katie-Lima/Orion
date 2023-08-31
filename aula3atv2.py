@@ -9,6 +9,8 @@ print("Olá, " + cliente + ". Em " + mes + " você realizou uma compra no valor 
 
 #print('meu nome é {a}, meu sobrenome é {b}'.format{a=nome,b=sobrenome})
 
+
+
 nome = input('Digite o seu nome: ')
 sobrenome = input('Digite o seu sobrenome: ')
 mes = 'JANEIRO'
